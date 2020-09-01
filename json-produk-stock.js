@@ -708,10 +708,6 @@
     "Stock": 15
   },
   {
-    "Date": "Date",
-    "Stock": "stock"
-  },
-  {
     "Date": "2013-11-24",
     "Stock": 27
   },
